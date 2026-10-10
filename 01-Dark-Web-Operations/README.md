@@ -62,6 +62,17 @@ We download the image from PJ post and decode it using this site https://stylesu
 <img width="526" height="315" alt="q54" src="https://github.com/user-attachments/assets/affb1b46-cbea-4b59-a3b4-1b33865293bc" />
 
 
+6) **What is the email of the user selling ‘stolen’ car parts?**
+
+We go to the post with the car image and decode the hexadecimal string within the message. This will give us the user's email address.
+
+
+<img width="944" height="498" alt="q6" src="https://github.com/user-attachments/assets/3975abcc-4b51-4ea9-a3b3-6a45adab6f64" />
+
+<img width="984" height="490" alt="q61" src="https://github.com/user-attachments/assets/95e5af1b-5fb2-4847-9b25-890f62220ee8" />
+
+
+
 
 
 
