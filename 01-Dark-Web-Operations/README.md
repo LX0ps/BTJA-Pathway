@@ -40,6 +40,22 @@ We go down the message board and we find user **Basilisk95** and click on the hy
 <img width="963" height="516" alt="md" src="https://github.com/user-attachments/assets/bf54d612-6c7e-47a2-aebb-958af0b30c42" />
 
 
+4) **A transaction log is mistakenly visible under the “Recent Transactions” section. Provide the customer’s full name, email address, and the purpose of the transaction.**
+
+We go down to recent transactions and click on the $7000 hyperlink text. We get an invoice to view.
+
+<img width="943" height="145" alt="q4" src="https://github.com/user-attachments/assets/9a40468a-3bd3-480f-b80a-778a77f25b44" />
+
+<img width="971" height="492" alt="transaction" src="https://github.com/user-attachments/assets/5e6c6162-3bea-435a-97ff-972b772b8c30" />
+
+
+5) **It looks like the user PJ is hosting an illegal party. What city is this taking place and when? We could catch him there and shut down this entire operation.**
+
+We download the image from PJ post and decode it using this site https://stylesuxx.github.io/steganography/. After that we get a riddle to solve, leading to the city of Cardiff.
+
+
+
+
 
 
 
