@@ -53,9 +53,13 @@ We go down to recent transactions and click on the $7000 hyperlink text. We get 
 
 We download the image from PJ post and decode it using this site https://stylesuxx.github.io/steganography/. After that we get a riddle to solve, leading to the city of Cardiff.
 
+<img width="931" height="505" alt="q5" src="https://github.com/user-attachments/assets/110f9d49-92d5-4fbb-b726-945706a42fbe" />
 
+<img width="973" height="404" alt="q52" src="https://github.com/user-attachments/assets/697d79f1-72e6-4dce-a739-5a8e6e00921f" />
 
+<img width="678" height="302" alt="q53" src="https://github.com/user-attachments/assets/3a071005-5410-4593-ac75-3194e2e20248" />
 
+<img width="526" height="315" alt="q54" src="https://github.com/user-attachments/assets/affb1b46-cbea-4b59-a3b4-1b33865293bc" />
 
 
 
