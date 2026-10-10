@@ -1,11 +1,56 @@
 # 01. Dark Web Operations — Capstone Lab Write-Up
 
 > **Module:** Introduction to Dark Web Operations (Centri / Security Blue Team)  
-> **Investigator:** lx0ps  
+> **Investigator:** lx0ps
 
-![Course Completion / Lab Status](completion_cert.png)
+1) **What command is used in the Console to generate valid credentials? Provide the credentials, too.**
+
+Before we load Tor we use a vpn for secure connection. Then we go to the onion link provided and we land on the site the image is showing. We then right-click go on inspect and then to console tab and run the command **generateUserCredentials()**
+We take the Base64 credential and we use cyberchef to decode it using the from base64 recipe.
+From this we get the credential the username and the password.
+
+
+<img width="965" height="488" alt="darkweb" src="https://github.com/user-attachments/assets/b4f3b38d-ca2d-4ead-9d34-fe78c4443a67" />
+
+<img width="982" height="527" alt="darkweb2" src="https://github.com/user-attachments/assets/44d25314-b88b-4ebf-8497-96539f77ae5d" />
+
+<img width="952" height="400" alt="darkweb3" src="https://github.com/user-attachments/assets/362e0039-76e7-43e6-8e6e-b5440c09ccf1" />
+
+<img width="997" height="376" alt="credentials" src="https://github.com/user-attachments/assets/0c50ed47-3d07-4b66-8ef3-2be7d2032568" />
+
+
+
+2) **After logging in, what are the titles of the three pinned posts seen on the website in ASCII text? Please place them in respective order.**
+
+We go and look at the 3 posts and take their hex values and decode them using cyberchef.
+
+<img width="989" height="401" alt="decode images" src="https://github.com/user-attachments/assets/5a06d37a-844d-4b16-a8a6-1462bc7d1cf0" />
+<img width="994" height="373" alt="cyber2" src="https://github.com/user-attachments/assets/d8e2767c-e8b2-4dfa-9786-933ccb15fc5d" />
+
+From cyberchef we get in order: **Drugs**, **Pleasure**, and **Drops** from the decoded ASCII text.
+
+
+
+3) **Look at the Messages board. They are mentioning another illegal site. Provide its name.**
+
+We go down the message board and we find user **Basilisk95** and click on the hyperlink , this leads us to another site from hacking group **Midnite**.
+
+<img width="983" height="213" alt="q3" src="https://github.com/user-attachments/assets/a293b6fd-3b34-4748-9aa3-2ce54832d0f2" />
+
+<img width="963" height="516" alt="md" src="https://github.com/user-attachments/assets/bf54d612-6c7e-47a2-aebb-958af0b30c42" />
+
+
+
+
+
+
+
+
+
+
 
 ---
+ 
 
 ## 🎯 Mission Scenario
 Authorities recently dismantled a major drug trafficking network operating through the TOR network. However, a key creator evaded capture and migrated to a personal hidden service blog—disguised under harmless topics like chocolate—to continue illicit coordination. 
