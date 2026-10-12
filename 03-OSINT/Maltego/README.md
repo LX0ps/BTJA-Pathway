@@ -1,0 +1,1 @@
+Maltego is a high-level data mining and information gathering tool, capable of obtaining real-time data on different types of entities (companies, people, websites, etc.), and representing them graphically through nodes, showing all the connections that the program was able to obtain over the Internet, about the subject under investigation.
