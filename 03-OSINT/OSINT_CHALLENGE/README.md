@@ -21,6 +21,62 @@ We find a message link in the profile and use cyberchef to decode it
 We got the link redhunt.net
 
 
+We didnt get any info from the site we search the name "sp1ritfyre" which leads us to this blog website.
+
+<img width="1418" height="835" alt="sp1ritfyre" src="https://github.com/user-attachments/assets/95abad41-abab-4069-b9e6-207d9d9bb97c" />
+
+The blog profile immediately give us valuable information so we can find the target's identity:
+
+- gender: female
+- porfile: account active since march 2020
+- location: 68747470733a2f2f73616d6d6965776f6f647365632e626c6f6773706f742e636f6d
+- Profile views: 40,527
+
+
+We click on the email and get the d1ved33p@gmail.com 
+Now we need to decode the location using cyberchef
+
+<img width="1503" height="736" alt="cyber" src="https://github.com/user-attachments/assets/75ab6535-ed62-4bda-bae5-4b7c199e74dc" />
+
+We get the decoded url: https://sammiewoodsec.blogspot.com/ and find a lot of useful information so we can answer the questions 
+
+<img width="1744" height="972" alt="sammie" src="https://github.com/user-attachments/assets/bd1fbfc6-d21f-44fc-8d12-dc261e648d2c" />
+
+
+<img width="1272" height="856" alt="sammie2" src="https://github.com/user-attachments/assets/a4404016-28c2-4c0e-96e9-313c7571291b" />
+
+We get from the blog the following info: 
+
+- Name: Sam
+- Age: 23
+- Education: Studied ICT in college before earning a 1st-class degree in Cyber Security and Forensics from the University of Plymouth.
+- Current Employer: PhilmanSecurityInc.
+- Role: Junior Pen tester.
+- Colleagues/Mentors: Mentions Zach and Dave as mentors at her firm.
+
+# Questions 
+
+1. What is the hacker’s first name?  Sammie
+2. What is the hacker’s last name? Woods
+3. What is the hacker’s age? 23
+4. What country does the hacker live in? United Kingdom
+5. What are some of the hacker’s interests? Security, Gaming, Photography, Camping, Malware Analysis
+6. What company does the hacker work for? PhilmanSecurityInc
+7. What is the hacker’s position within the company? Junior Penetration Tester
+8. What is the full url of the website owned by the hacker? https://redhunt.net
+9. List any full URLs of websites not owned, but used by the hacker (Blogs only) https://sammiewoodsec.blogspot.com/ https://sp1ritfyrehackerstories.blogspot.com/
+10. What email address has been used by the hacker? d1ved33p@gmail.com
+
+
+
+
+
+
+
+
+
+
+
 
 
 
