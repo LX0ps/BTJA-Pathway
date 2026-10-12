@@ -8,4 +8,20 @@ Your manager has provided you with the following starting information:
 
 <img width="949" height="1003" alt="report" src="https://github.com/user-attachments/assets/45c9c1ae-a5b6-4ec3-bc25-208a22bcf8d0" />
 
+Using the Google search allintext:sp1ritfyre we find that there is an X account with that name 
+
+<img width="1099" height="829" alt="x account" src="https://github.com/user-attachments/assets/76c5b827-24ce-4d7f-8f05-e35d657059c2" />
+
+
+
+We find a message link in the profile and use cyberchef to decode it 
+
+<img width="1290" height="744" alt="cyberchef" src="https://github.com/user-attachments/assets/71cbb8eb-a3bd-425d-b1ba-6bf25b534570" />
+
+We got the link redhunt.net
+
+
+
+
+
 
