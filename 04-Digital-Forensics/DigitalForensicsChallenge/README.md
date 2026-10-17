@@ -62,6 +62,20 @@ in the saved emails dir we find in form1.jpg useful info. Simon, I have username
 
 <img width="1898" height="628" alt="pass is password" src="https://github.com/user-attachments/assets/116bcda1-fb75-4b95-bbe5-3f70816db73a" />
 
+we navigate back to images directory then use the password: password and the command setghide extract -sf laptop.jpg to extract the embeded file. A file passwords is obtained. Using the cat passwords command, a list of employees' passwords were displayed.
+
+<img width="1823" height="799" alt="back to imagess" src="https://github.com/user-attachments/assets/28df33f7-a64b-4061-8c3f-c971b4c92037" />
+
+
+<img width="1270" height="990" alt="ev 2 passwords" src="https://github.com/user-attachments/assets/331761f8-a5a1-4ed5-9ea7-b6e5b47a6bcd" />
+
+
+# Evidence 3
+
+
+
+
+
 
 
 
