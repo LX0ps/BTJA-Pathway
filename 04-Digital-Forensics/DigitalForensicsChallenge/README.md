@@ -44,6 +44,40 @@ Now that we got the password we go ahead and unzip the file and we find a txt an
 <img width="1636" height="682" alt="file unzip" src="https://github.com/user-attachments/assets/e2847833-f64b-483e-8801-783649456fe5" />
 
 
+# Evidence 2 
+We examine the images directory. the laptop.jpg and office 2.jpg files had an unusually large byte size for a typical image, making them sus. 
+
+
+
+<img width="1768" height="1084" alt="evid 2" src="https://github.com/user-attachments/assets/09284c5f-2e90-4863-bf06-7b9f07c628c0" />
+
+use steghide commands on both the files. Both files are stegofiles. we need to find the passwords.
+
+<img width="1353" height="564" alt="stegofiles" src="https://github.com/user-attachments/assets/c4959a1e-0151-4725-977c-1b12a2aac5c3" />
+
+in the saved emails dir we find in form1.jpg useful info. Simon, I have usernames and passwords for the VPN. Still on my work PC. Don't want to risk emailing them just yet. When I do, the file is a .jpg image + password for extraction is password. Use steghide. Talk again soon. This message shows that the .jpg stegfiles all have a password of password.
+
+<img width="1370" height="813" alt="saved emails cd" src="https://github.com/user-attachments/assets/d1fbbf08-fc3a-4a68-a338-3a9e66ef5ed6" />
+
+
+<img width="1898" height="628" alt="pass is password" src="https://github.com/user-attachments/assets/116bcda1-fb75-4b95-bbe5-3f70816db73a" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
