@@ -72,6 +72,34 @@ we navigate back to images directory then use the password: password and the com
 
 # Evidence 3
 
+we run  steghide extract -sf 'office2.jpg'  on other suspicious .jpg files. But nothing happened.
+
+<img width="1819" height="327" alt="office 2" src="https://github.com/user-attachments/assets/6d4733ec-b11c-4fe2-9a2a-0b447732c756" />
+
+we go to weekly meeting notes dir and find the week10 we find inside it the posidon.xml file witch is actually a png file.
+
+<img width="1618" height="831" alt="posidon" src="https://github.com/user-attachments/assets/c47bbb02-7d64-422c-8bb0-1b379995e192" />
+
+so we use move command to make it from xml to png. we use open posidon.png and we able to find the office locations.
+
+<img width="1540" height="207" alt="posidon png" src="https://github.com/user-attachments/assets/3194967b-0611-493a-a49a-65c86701b754" />
+
+
+<img width="753" height="590" alt="office locations" src="https://github.com/user-attachments/assets/608b0ca3-d385-4c10-b0ac-569943fd20db" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
