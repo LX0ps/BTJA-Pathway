@@ -14,6 +14,7 @@ The SOC has received an anonymous report that a user is potentially exfiltrating
 - fcrackzip (Allows us to crack password protected .zip files)
 - steghide (Allows us to retrieve files hidden in image and audio files)
 - file (Allows us to see what the true file-type of the file is, even if the extension has been changed to trick us)
+# Evidence 1 
 
 
 1. We launch the kali linux vm and download the file.
