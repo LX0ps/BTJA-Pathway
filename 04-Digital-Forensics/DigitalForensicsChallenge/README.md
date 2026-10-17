@@ -87,6 +87,25 @@ so we use move command to make it from xml to png. we use open posidon.png and w
 
 <img width="753" height="590" alt="office locations" src="https://github.com/user-attachments/assets/608b0ca3-d385-4c10-b0ac-569943fd20db" />
 
+# Evidence 4
+
+We find in the webdev work dir a suspicious file /WebDev work/unfinished webpages/templatemo_508_power/css directory.
+
+
+<img width="1796" height="563" alt="sus files" src="https://github.com/user-attachments/assets/a5e0c5c7-f719-4d5d-8108-a50af4993f27" />
+
+<img width="1841" height="945" alt="sus file 2" src="https://github.com/user-attachments/assets/f70b0db4-0b44-429a-9984-9cb05db140cd" />
+
+in the css dir we cat the bootstrap.min.abc file and we see that Colin Andrews info is leaked.
+
+<img width="1874" height="998" alt="info leaked" src="https://github.com/user-attachments/assets/7d9f9df8-8360-4a04-8cbf-866a0f0a3d4e" />
+
+
+
+
+
+
+
 
 
 
