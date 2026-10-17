@@ -67,6 +67,62 @@ Using the above screenshot the full file name of this file is 2innocent.pdf.
 
 # File Beginning With “3”
 
+1. What is the SHA1 hash value of this file?
+
+
+We follow the same steps as the above one but for the file  **3Stock-Image-PANIC.jpg**.
+<img width="1230" height="209" alt="file 3 sha1sum" src="https://github.com/user-attachments/assets/739d48cc-8d1a-4460-91dc-3894d25cca8b" />
+
+
+2. What is the MD5 hash value of this file?
+
+<img width="913" height="110" alt="file 3 md5sum" src="https://github.com/user-attachments/assets/bcbf3bf4-ea02-4d5a-8b52-9a1a7b60b0e7" />
+
+3. What is the file size (in bytes, with no separators such as “,”) of this file?
+
+<img width="1030" height="279" alt="file 3 size" src="https://github.com/user-attachments/assets/ee0d6055-8c3a-417a-ac17-893329472fc8" />
+
+<img width="677" height="477" alt="file 3 size 2nd way" src="https://github.com/user-attachments/assets/83e89f61-a9f9-4619-8e01-b34fea6c3c2c" />
+
+
+4. What is the full file name (and extension) of this file?
+Using the above screenshot the full file name of this file is 3Stock-Image-PANIC.jpg.
+
+# File Beginning With “4”
+
+1. What is the SHA1 hash value of this file?
+
+<img width="1233" height="194" alt="file 4 sha1 value" src="https://github.com/user-attachments/assets/fc9d760c-4567-4270-a873-53cb4698e0aa" />
+
+2. What is the MD5 hash value of this file?
+
+<img width="972" height="133" alt="file 4 md5sum" src="https://github.com/user-attachments/assets/c68f0100-33f9-41ba-99a9-ffd3faafe4fe" />
+
+3. What is the file size (in bytes, with no separators such as “,”) of this file?
+
+<img width="980" height="276" alt="file 4 size" src="https://github.com/user-attachments/assets/319bd865-41ff-4738-9475-5cd63f44617a" />
+
+<img width="504" height="472" alt="file 4 size 2" src="https://github.com/user-attachments/assets/89db68f2-9428-4141-bf03-b778db66ae45" />
+
+
+4. What is the full file name (and extension) of this file?
+
+Using above screenshot, the full file name of this file is 4sales report july 2019.pdf.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
