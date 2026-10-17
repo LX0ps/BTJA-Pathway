@@ -110,6 +110,30 @@ Using the above screenshot the full file name of this file is 3Stock-Image-PANIC
 Using above screenshot, the full file name of this file is 4sales report july 2019.pdf.
 
 
+# Additional Questions 
+
+1. In IOCe, when trying to add new IOC values, what is the first property available under the Network heading? (Similar to how we selected FileItem properties).
+
+Network DNS 
+<img width="887" height="617" alt="Screenshot 2026-10-17 110931" src="https://github.com/user-attachments/assets/11f848f4-dec0-44f9-aee2-275159467416" />
+
+
+2. In IOCe, there are option to add values from email, Snort, and Task Items, true or false?
+
+True 
+<img width="798" height="848" alt="Screenshot 2026-10-17 111139" src="https://github.com/user-attachments/assets/01d65a64-208f-4beb-a117-63136bbdac8a" />
+
+3. What does IOC stand for?
+
+Indicators of Compromise
+
+4. Which of the following are examples of IOCs? (Choose any that apply)
+
+email sending address, ip address, file name , file hash, string , website url.
+
+
+
+
 
 
 
