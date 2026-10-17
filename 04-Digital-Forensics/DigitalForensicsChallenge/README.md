@@ -27,6 +27,33 @@ The SOC has received an anonymous report that a user is potentially exfiltrating
 
 <img width="1126" height="865" alt="tree2" src="https://github.com/user-attachments/assets/95d4e46a-b7ed-4197-93eb-620c700b0c4a" />
 
+After some time in the drive we find a directory called "to-do". With the command ls -a, we find a hidden zip file. We see that the file has been encrypted with a password.
+
+<img width="1810" height="942" alt="file zip" src="https://github.com/user-attachments/assets/9855cfcc-c02d-4aaa-9f14-1df75fee3aae" />
+
+<img width="1630" height="393" alt="password fail" src="https://github.com/user-attachments/assets/b99fa4c3-0e4a-4415-b5f4-5d9079696132" />
+
+We did not find any passwords in the Harrison disk drive so we gonna use a dictionary attack with fcrackzip to find the password of the zip file.
+We find the password **vendy13031988*.
+
+<img width="1607" height="270" alt="dictionary attack" src="https://github.com/user-attachments/assets/c3d84a85-2ccc-4c30-8213-a5bba0d7999e" />
+
+Now that we got the password we go ahead and unzip the file and we find a txt and use cat the find what's inside it.
+
+<img width="1636" height="682" alt="file unzip" src="https://github.com/user-attachments/assets/e2847833-f64b-483e-8801-783649456fe5" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -68,7 +95,65 @@ The SOC has received an anonymous report that a user is potentially exfiltrating
 - Question 7: Digital Forensics entails… The identification, preservation, and analysis of evidence found on electronic devices.
 - Question 8: What does HTCIA stand for in regard to Digital Forensics? High Technology Crime Investigation Association
 - Question 9: Computer Forensics and Data Recovery are the same thing, true or false? false
-- Question 10: Corporate Policies can dictate which of the following? all of the above 
+- Question 10: Corporate Policies can dictate which of the following? all of the above
+
+
+
+# Practical Challenge Questions
+
+- Question 1: [Evidence 1/4] What is the name of the file where the evidence was found? (filename and extension) 
+
+employeedump.txt
+
+- Question 2: [Evidence 1/4] What is the name of the directory your in where this evidence was found?
+
+to-do
+
+- Question 3: [Evidence 1/4] What piece of evidence have you found? 
+
+Employee information
+
+- Question 4: [Evidence 2/4] What is the name of the file where the evidence was found? (filename and extension)
+
+laptop.jpg
+
+- Question 5: [Evidence 2/4] What is the name of the directory your in where this evidence was found?
+Images
+
+- Question 6: [Evidence 2/4] What piece of evidence have you found? 
+
+List of employee passwords
+
+- Question 7: [Evidence 3/4] What is the name of the file where the evidence was found? (filename and extension)
+
+ posidon.xml
+
+- Question 8: [Evidence 3/4] What is the name of the directory your in where this evidence was found?
+
+ week 10
+
+- Question 9: [Evidence 3/4] What piece of evidence have you found?
+
+ Office Locations
+
+- Question 10: [Evidence 4/4] What is the name of the file where the evidence was found? (filename and extension)
+
+  bootstrap.min.abc
+
+- Question 11: [Evidence 4/4] What is the name of the directory your in where this evidence was found?
+
+  css
+
+- Question 12: [Evidence 4/4] What piece of evidence have you found? 
+  
+  Colin’s information
+
+  
+
+
+
+
+
 
 
 
