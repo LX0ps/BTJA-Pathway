@@ -32,3 +32,50 @@ The SOC has received an anonymous report that a user is potentially exfiltrating
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# General Knowledge Questions 
+
+
+- Question 1: When considering the order of volatility, which is the MOST volatile form of evidence? Cache
+- Question 2: What is the Chain of Custody in regard to digital forensics? Paper trail for evidence that shows where it has been, and who has been in possession of it.
+- Question 3: An employee is under investigation, and you are sent to look at his laptop. You discover that it is locked, but you have the user’s password to unlock it. What should you do next? Wait for the user and get them to sign-in
+- Question 4: Can social-media posts be counted as a form of electronic evidence? yes 
+- Question 5: Which one of the following evidence types holds the most value in court? Real Evidence
+- Question 6: When cracking ZIP passwords using fcrackzip, what is the flag used to conduct a brute force attack, with lowercase letters and numbers? format: -(flag) -(flag) (values) -b -c a1
+- Question 7: Digital Forensics entails… The identification, preservation, and analysis of evidence found on electronic devices.
+- Question 8: What does HTCIA stand for in regard to Digital Forensics? High Technology Crime Investigation Association
+- Question 9: Computer Forensics and Data Recovery are the same thing, true or false? false
+- Question 10: Corporate Policies can dictate which of the following? all of the above 
+
+
+
+
+
+
+
+
+
+
