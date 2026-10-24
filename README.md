@@ -27,3 +27,9 @@ Completing these six courses awards the official **Blue Team Junior Analyst Path
 
 ## 🔗 Get Started
 You can register at [Centri.org](https://www.centri.org/) to learn more about the courses and start your training.
+
+## 📬 Connect with Me
+
+* **LinkedIn:** [Ioannis Georgakopoulos](https://www.linkedin.com/in/ioannis-georgakopoulos/)
+* **GitHub:** [@lx0ps](https://github.com/lx0ps)
+
